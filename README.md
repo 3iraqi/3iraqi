@@ -1,6 +1,8 @@
 <h1 align="center" >Hi 👋, I'm Mohamed Eleraqi</h1>
 <h3 align="center">I'm a Data Science Learner</h3>
 
+<p><img src="https://i.gifer.com/33HI.gif" alt="" /></p>  <div style="margin-top: 30px;margin-bottom: 10px;font-size: 0.8em;border-top: 1px solid #eee;padding-top: 8px;cursor: pointer;"      title="This message doesn't display in the registered version of Markdown Monster." onclick="window.open('https://markdownmonster.west-wind.com')">     <img src="https://markdownmonster.west-wind.com/favicon.png"          style="height: 20px;float: left; margin-right: 10px;"/>     created with the evaluation version of     <a href="https://markdownmonster.west-wind.com"        target="top">Markdown Monster</a> </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3iraqi&label=Profile%20views&color=0e75b6&style=flat" alt="3iraqi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
