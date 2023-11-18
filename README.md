@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Eleraqi</h1>
-<h3 align="center">i'm a data Science learner</h3>
+<h1 align="center" >Hi 👋, I'm Mohamed Eleraqi</h1>
+<h3 align="center">I'm a Data Science Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3iraqi&label=Profile%20views&color=0e75b6&style=flat" alt="3iraqi" /> </p>
 
