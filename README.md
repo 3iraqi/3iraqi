@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Mohamed Eleraqi</h1>
-<h3 align="center">I'm a Machine Learner</h3>
+<h3 align="center">I'm a BI Developer</h3>
 
 
 ![](https://i.gifer.com/33HI.gif)
